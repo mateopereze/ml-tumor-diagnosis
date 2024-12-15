@@ -13,7 +13,16 @@ The [Breast Cancer Diagnostic data](https://archive.ics.uci.edu/ml/datasets/Brea
 
 ## Objectives
     
-- Produce data visualizations with Seaborn on Breast Cancer Diagnostic data.
-- Apply graphical techniques used in exploratory data analysis (EDA).
-- Use differenting Machine Learning Algorithms like __KNN's, PCA, RF & SVM__ for predicting the outcome.
+1. Data preprocessing and normalization
+2. Correlation analysis
+3. Feature selection
+4. Dimentional reduction
+5. Clustering analysis
+6. Model evaluation and interpretation
 
+
+## Installation and configuration
+
+1. Python 3.11 is recommended for this project. You can download it from the official Python website: [Python 3.11 Download](https://www.python.org/downloads/).
+
+2. It is advised to set up the project in a [__virtual environment__] to isolate dependencies. Inside the project directory, you'll find the ```PyEnv.bat``` executable. Running this will create a virtual environment in the project folder and automatically install the necessary dependencies as specified in the ```requirements.txt``` file.
